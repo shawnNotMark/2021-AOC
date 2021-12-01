@@ -1,3 +1,4 @@
+#!/usr/local/bin/python3
 #part 1
 def part1():
     with open('./day1.input','r') as f: 
